@@ -9,7 +9,7 @@
     <Authors>soonthana</Authors>
     <Company>Undone</Company>
     <PackageDescription>Common package (Custom Http Responses, IRepository, Message broker, Validations, Date Time formatting) for Move Microservices.</PackageDescription>
-    <RepositoryUrl>https://github.com/soonthana/move-packages</RepositoryUrl>
+    <RepositoryUrl>https://github.com/soonthana/move-common</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
